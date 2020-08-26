@@ -16,7 +16,7 @@ span
     padding:15px ;
     margin: 40px 40px 40px 40px ;
     border: 10 px solid white;
-
+  
 
 }
 #header{
@@ -36,4 +36,15 @@ span
 img{
     height: 200px;
     padding: 15px;
+}
+#ppp{
+    text-align: left;
+    color:purple;
+    display: inline;
+    font-size: 20px;
+    padding:15px ;
+    margin: 40px 40px 40px 40px ;
+    border: 10 px solid white;
+  
+
 }
